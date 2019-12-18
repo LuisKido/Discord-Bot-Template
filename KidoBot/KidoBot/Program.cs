@@ -27,7 +27,7 @@ namespace KidoBot
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            string token = "NjU2NTUwODQ2OTMwMjIzMTI0.XfkSrA.uXR4_iJTOHiN20k8TaIzlrSIQfg";
+            string token = ""; //key de tu bot
 
             _client.Log += _client_Log;
 
