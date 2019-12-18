@@ -1,0 +1,11 @@
+C:\Users\luis orostizaga\source\repos\KidoBot\KidoBot\bin\Debug\netcoreapp2.1\KidoBot.deps.json
+C:\Users\luis orostizaga\source\repos\KidoBot\KidoBot\bin\Debug\netcoreapp2.1\KidoBot.runtimeconfig.json
+C:\Users\luis orostizaga\source\repos\KidoBot\KidoBot\bin\Debug\netcoreapp2.1\KidoBot.runtimeconfig.dev.json
+C:\Users\luis orostizaga\source\repos\KidoBot\KidoBot\bin\Debug\netcoreapp2.1\KidoBot.dll
+C:\Users\luis orostizaga\source\repos\KidoBot\KidoBot\obj\Debug\netcoreapp2.1\KidoBot.csprojAssemblyReference.cache
+C:\Users\luis orostizaga\source\repos\KidoBot\KidoBot\obj\Debug\netcoreapp2.1\KidoBot.csproj.CoreCompileInputs.cache
+C:\Users\luis orostizaga\source\repos\KidoBot\KidoBot\obj\Debug\netcoreapp2.1\KidoBot.AssemblyInfoInputs.cache
+C:\Users\luis orostizaga\source\repos\KidoBot\KidoBot\obj\Debug\netcoreapp2.1\KidoBot.AssemblyInfo.cs
+C:\Users\luis orostizaga\source\repos\KidoBot\KidoBot\bin\Debug\netcoreapp2.1\KidoBot.pdb
+C:\Users\luis orostizaga\source\repos\KidoBot\KidoBot\obj\Debug\netcoreapp2.1\KidoBot.dll
+C:\Users\luis orostizaga\source\repos\KidoBot\KidoBot\obj\Debug\netcoreapp2.1\KidoBot.pdb
